@@ -1,6 +1,6 @@
 # Mobiiliohjelmoinnin harjoitustyö
 
-Veneilijän lokikirja -sovellus, johon voi merkitä kaikki matkan aikana tapahtuneet merkittävät tapahtumat. 
+Veneilijän lokikirja -sovellus, johon voi kirjata kaikki matkan aikana tapahtuneet merkittävät tapahtumat. 
 
 Sovellus koostuu kahdesta pääosiosta:
 - Lokirjasta, johon voi lisätä merkintöjä, tarkastella niitä listalla ja kartalla sekä lähettää tiedot sähköpostilla
