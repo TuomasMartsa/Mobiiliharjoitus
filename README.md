@@ -15,3 +15,5 @@ Käytettyjä teknologioita:
 - SQLite tietokanta, lokikirjan tietojen tallennukseen
 - Mapview, tietojen esittämiseen kartalla
 - Date fns, päiväyksen ja ajan esitysmuodon muuttamiseen
+
+Sovellus on testattu ainoastaan iPhone 11 laittella ja käyttjöjärjestelmän versiolla OS 14.2
