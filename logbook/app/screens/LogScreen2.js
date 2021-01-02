@@ -4,7 +4,6 @@ import { StyleSheet, Text, View, FlatList, Alert } from 'react-native';
 import * as SQLite from 'expo-sqlite';
 import { useNavigation  } from '@react-navigation/native';
 import { Icon, Button } from 'react-native-elements';
-
 import * as MailComposer from 'expo-mail-composer';
 
 export default function App() {

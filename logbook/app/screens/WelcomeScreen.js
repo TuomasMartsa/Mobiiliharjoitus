@@ -2,10 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { ImageBackground, StyleSheet, View, Image, Text, Pressable } from 'react-native';
 import { useNavigation  } from '@react-navigation/native';
-
 import { Icon } from 'react-native-elements';
-
-
 
 function welcomeScreen(props) {
 

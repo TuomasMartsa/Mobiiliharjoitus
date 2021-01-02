@@ -1,6 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import WelcomeScreen from './app/screens/WelcomeScreen';
 import Warnings from './app/screens/Warnings';
@@ -45,7 +44,6 @@ export default function App() {
               let iconName;
               if (route.name === 'Koti') {
                 iconName =  'ios-home'
-                 
               } else if (route.name === 'Lokikirja') {
                 iconName = focused ? 'ios-book' : 'md-book';
               } else if (route.name === 'Merivaroitukset') {
